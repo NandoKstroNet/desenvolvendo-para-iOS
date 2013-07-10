@@ -21,3 +21,10 @@ que não são atualizados há algum tempo, por exemplo).
 
 [Cocoapods](http://cocoapods.org/) - Respositório e administrador de pacotes, é recomedado aprender a utilizá-lo
 já que é a maneira mais fácil de procurar e manter os componentes atualizados.
+
+Vídeo aulas
+===========
+
+[Video Aulas de Obj-C em pt_br](http://www.youtube.com/playlist?list=PLBFC7989B4656FC36)
+
+[Video Aulas iOS-Dev/xCode4 em pt_br](http://www.youtube.com/playlist?list=PL42EBDD0C4102729F)

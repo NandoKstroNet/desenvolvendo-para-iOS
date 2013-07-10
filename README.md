@@ -4,7 +4,7 @@ Desenvolvendo para iOS
 ### O quê? ###
 -----------
 
-Nesse repositório você vai encontrar o arquivo <b>por-onde-começar.md</b>, com uma lista de links e recursos para iniciar o desenvolvimento para iOS.
+Nesse repositório você vai encontrar o arquivo <b>por-onde-iniciar.md</b>, com uma lista de links e recursos para iniciar o desenvolvimento para iOS.
 
 ### Para quê? ###
 -----------------
@@ -14,4 +14,4 @@ Vamos reunir várias idéias e links para facilitar a vida de quem quer entrar n
 ### Como? ###
 -------------
 
-Fork, edite o <b>por-onde-começar.md</b> e mande um pull request.
+Fork, edite o <b>por-onde-iniciar.md</b> e mande um pull request.
