@@ -10,6 +10,18 @@ as guidelines da Apple e informações sobre a interface de aplicativos para iOS
 
 [Programming with Objective-C](http://developer.apple.com/library/ios/#documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 
+Automatic Reference Count (ARC)
+===============================
+
+O ARC é o novo modo de gerenciamento de memória introduzido no LLVM 3.0. Ele não é um garbage collector, mas sim 
+uma ajuda do compilador em que ele mesmo faz os _releases_ de memória.
+
+http://longweekendmobile.com/2011/09/07/objc-automatic-reference-counting-in-xcode-explained/
+http://blog.mugunthkumar.com/articles/migrating-your-code-to-objective-c-arc/
+http://www.mikeash.com/pyblog/friday-qa-2011-09-30-automatic-reference-counting.html
+
+["Adopting Automatic Reference Counting", da WWDC 2012](https://developer.apple.com/videos/wwdc/2012/)
+
 Componentes
 ===========
 
