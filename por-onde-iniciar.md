@@ -40,3 +40,14 @@ Vídeo aulas
 [Video Aulas de Obj-C em pt_br](http://www.youtube.com/playlist?list=PLBFC7989B4656FC36)
 
 [Video Aulas iOS-Dev/xCode4 em pt_br](http://www.youtube.com/playlist?list=PL42EBDD0C4102729F)
+
+Projetos de Exemplos
+====================
+
+O Paulo Mazzeo criou um repositório com vários projetos de exemplos. É bom para começar a entender como algumas 
+coisas funcionam no iOS.
+
+(observação: ficar de olho na versão e quando o projeto foi feito para ver se as APIs utilizadas não estão marcadas
+como deprecated nas versões mais novas)
+
+https://github.com/pbrazil09/Testes-e-Treinamentos
