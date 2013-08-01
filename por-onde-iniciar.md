@@ -22,6 +22,16 @@ http://www.mikeash.com/pyblog/friday-qa-2011-09-30-automatic-reference-counting.
 
 ["Adopting Automatic Reference Counting", da WWDC 2012](https://developer.apple.com/videos/wwdc/2012/)
 
+Entendendo a linguagem e o sistema
+======================
+
+[Try OBJ-C](http://tryobjectivec.codeschool.com) Free (Code School).
+
+O site RayWenderlich tem uma boa série de posts para quem está começando:
+http://www.raywenderlich.com/38557/learn-to-code-ios-apps-welcome-to-programming
+http://www.raywenderlich.com/40293/learn-to-code-ios-apps-strings-arrays-objects-and-classes
+http://www.raywenderlich.com/25561/ios-for-high-school-students-making-your-first-ios-app-part-1
+
 Componentes
 ===========
 
