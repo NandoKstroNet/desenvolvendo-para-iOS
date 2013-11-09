@@ -27,6 +27,10 @@ Entendendo a linguagem e o sistema
 
 [Try OBJ-C](http://tryobjectivec.codeschool.com) Free (Code School).
 
+[Esse aqui](http://ios-blog.co.uk/tutorials/objective-c-guide-for-developers-part-1/) é um guia extenso sobre os padrões do Objective-C, convenções de nome, entre outras coisas. Começa a ficar interessante na parte 2.
+
+[iOS Design Patterns](http://www.raywenderlich.com/46988/ios-design-patterns) é sobre como o iOS e Objective-C funcionam.
+
 O site RayWenderlich tem uma boa série de posts para quem está começando:
 
 http://www.raywenderlich.com/38557/learn-to-code-ios-apps-welcome-to-programming
@@ -53,6 +57,8 @@ Vídeo aulas
 [Video Aulas de Obj-C em pt_br](http://www.youtube.com/playlist?list=PLBFC7989B4656FC36)
 
 [Video Aulas iOS-Dev/xCode4 em pt_br](http://www.youtube.com/playlist?list=PL42EBDD0C4102729F)
+
+[Video Aulas de Stanford sobre o iOS 7](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 
 Projetos de Exemplos
 ====================
