@@ -70,3 +70,9 @@ coisas funcionam no iOS.
 como deprecated nas versões mais novas)
 
 https://github.com/pbrazil09/Testes-e-Treinamentos
+
+Weeklys
+====================
+
+[Mac Dev Weekly](http://macdevweekly.com/)
+Weekly newsletter for iOS and Mac developers.
