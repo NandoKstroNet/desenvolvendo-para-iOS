@@ -31,6 +31,8 @@ Entendendo a linguagem e o sistema
 
 [iOS Design Patterns](http://www.raywenderlich.com/46988/ios-design-patterns) é sobre como o iOS e Objective-C funcionam.
 
+[Learn COCOA](http://cocoadevcentral.com/) - Ótimo conteúdo sobre Cocoa e Objective C.
+
 O site RayWenderlich tem uma boa série de posts para quem está começando:
 
 http://www.raywenderlich.com/38557/learn-to-code-ios-apps-welcome-to-programming
@@ -50,8 +52,6 @@ que não são atualizados há algum tempo, por exemplo).
 
 [Cocoapods](http://cocoapods.org/) - Respositório e administrador de pacotes, é recomedado aprender a utilizá-lo
 já que é a maneira mais fácil de procurar e manter os componentes atualizados.
-
-[Learn COCOA](http://cocoadevcentral.com/) - Ótimo conteúdo sobre Cocoa e Objective C.
 
 Vídeo aulas
 ===========
