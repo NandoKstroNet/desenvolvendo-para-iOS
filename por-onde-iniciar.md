@@ -51,6 +51,8 @@ que não são atualizados há algum tempo, por exemplo).
 [Cocoapods](http://cocoapods.org/) - Respositório e administrador de pacotes, é recomedado aprender a utilizá-lo
 já que é a maneira mais fácil de procurar e manter os componentes atualizados.
 
+[Learn COCOA](http://cocoadevcentral.com/) - Ótimo conteúdo sobre Cocoa e Objective C.
+
 Vídeo aulas
 ===========
 
